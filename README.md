@@ -79,7 +79,7 @@ Motorola-Sales-Dashboard/
 
 > Replace the image below with your dashboard screenshot.
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](https://github.com/shivangii01/Motorola-Sales-Dashboard-PowerBI-/blob/main/snapshot%20dashboard%203.png)
 
 ---
 
