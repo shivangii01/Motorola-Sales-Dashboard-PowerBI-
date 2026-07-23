@@ -68,9 +68,12 @@ The dashboard enables users to monitor key business metrics and gain insights th
 ```
 Motorola-Sales-Dashboard/
 │
-├── Motorola Sales Dashboard.pbix
-├── Dashboard.png
-└── README.md
+├── README.md
+├──moto dash.pbit
+├──snapshot dashboard 1.png
+├──snapshot dashboard 2.png
+└── snapshot dashboard 3.png 
+
 ```
 
 ---
